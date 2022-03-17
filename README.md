@@ -9,9 +9,7 @@
    #### Goals
     ##### Swift Basics
     ##### Swift OOP
-    ##### Simple UI 
-    ##### Core data
-    
+    ##### Simple UI     
    
    
   ## intermediate  
