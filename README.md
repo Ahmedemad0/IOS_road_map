@@ -7,9 +7,9 @@
    ##### https://www.youtube.com/watch?v=mhE-Mp07RTo&t=2s. -> English (Devlopers)
    
    #### Goals
-    ##### Swift Basics
-    ##### Swift OOP
-    ##### Simple UI     
+    Swift Basics
+    Swift OOP
+    Simple UI     
    
    
   ## intermediate  
@@ -19,10 +19,10 @@
    ###### https://drive.google.com/drive/u/1/folders/1SDwof_MwdcCLptjWfi1idNFl0-DCf9jj. -> English (Instagram app)
    
    #### Goals
-    ##### How to deal with Storyboard
-    ##### How to make UI (Programmtically)
-    ##### APIs / Networking
-    ##### MVC Architecture
+    How to deal with Storyboard
+    How to make UI (Programmtically)
+    APIs / Networking
+    MVC Architecture
    
   ## Advanced
   #### Goals
